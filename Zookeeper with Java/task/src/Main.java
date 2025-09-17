@@ -1,5 +1,12 @@
+
 public class Main {
     public static void main(String[] args) {
+        AnimalStatusReport.printReport();
+    }
+}
+
+final class AnimalStatusReport {
+    public static void printReport() {
         System.out.println("""
                 I love animals!
                 Let's check on the animals...
