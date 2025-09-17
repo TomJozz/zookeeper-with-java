@@ -1,1 +1,15 @@
 # Zookeeper with Java (Hyperskill Project)
+[Zookeeper with Java](https://hyperskill.org/projects/229/)
+
+There are many animals in the zoo, and all of them need care. The animals must be fed, cleaned, surrounded by their kin, and kept happy. That is a difficult task for our large zoo, so one of your employers has suggested a more convenient way to keep track of everything. She wants to be able to pull up a video feed of any animal in the zoo with the help of a program. Being able to check on each habitat would help the zookeepers take care of our furry friends more efficiently!
+
+In this project, you will create a program that helps the zookeepers check on the animals and make sure that they're doing well. Your product will be able to process commands from the zookeepers and display the animals on a monitor.
+
+### Topics:
+- Types and variables
+- Introduction to Java
+- Naming variables
+- Basic literals: numbers, strings and characters
+- Writing first program
+- Printing data 
+- Coding style conventions
