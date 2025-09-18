@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://hyperskill.org/api/projects/229/additional-files/additional_files.json
   is_template_based: true
   use_ide: true
-update_date: "Thu, 01 Jan 1970 00:00:00 UTC"
+update_date: "Thu, 18 Sep 2025 18:28:04 UTC"
 stages:
   - id: 1147
     step: 17788
@@ -16,7 +16,7 @@ stages:
     is_completed: true
   - id: 1150
     step: 17791
-    is_completed: false
+    is_completed: true
 topics:
   0:
     - title: Introduction to Java
@@ -90,6 +90,8 @@ topics:
       theory_id: 9746
     - title: IDE
       theory_id: 10996
+    - title: Introduction to Linux
+      theory_id: 9526
     - title: What are bugs
       theory_id: 5504
     - title: Debugging overview
